@@ -1,3 +1,3 @@
-E-Commerce Site with Microservices, REST APIs
-Front End with AngularJs
+A fully functional E-Commerce Site with Java, SpringBoot, Microservices, REST APIs
+# Front End with AngularJs (in Progress)
 

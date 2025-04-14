@@ -53,7 +53,7 @@ This application features:
 
 ### Backend Services
 
-# Navigate into each microservice directory and run:
+**Navigate into each microservice directory and run:**
 mvn clean install
 mvn spring-boot:run
 Have to run each individual service as a Java Application if running from an IDE.
@@ -65,3 +65,20 @@ ng serve --open
 
 Frontend runs at http://localhost:4200
 API Gateway runs at http://localhost:8080
+
+### 🧪 Testing
+
+Unit Testing: JUnit, Mockito
+Integration Tests for API endpoints
+Postman Collection included for manual API testing
+
+### ☁️ Deployment (Optional)
+Backend deployed on AWS EC2 and RDS
+Static front-end hosted via AWS S3 + CloudFront
+Jenkins pipelines for CI/CD
+
+### 📄 Future Enhancements
+Add payment gateway integration
+Implement Elasticsearch for advanced search
+Add Prometheus + Grafana monitoring
+Introduce shopping recommendations via ML

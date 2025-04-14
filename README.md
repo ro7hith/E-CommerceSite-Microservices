@@ -58,4 +58,10 @@ mvn clean install
 mvn spring-boot:run
 Have to run each individual service as a Java Application if running from an IDE.
 
+## Frontend
+cd frontend
+npm install
+ng serve --open
 
+Frontend runs at http://localhost:4200
+API Gateway runs at http://localhost:8080

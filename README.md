@@ -3,7 +3,7 @@
 Welcome to the **E-Commerce Site**, a modern microservices-based web application designed to simulate a real-world online shopping platform. Built with **Spring Boot**, **Angular**, and deployed on **AWS**, this project demonstrates scalable service-oriented architecture and seamless integration between front-end and back-end components.
 
 
-** Front-End with Angular - in Progress**
+**Front-End with Angular - in Progress**
 
 ## 📦 Overview
 

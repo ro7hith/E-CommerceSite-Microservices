@@ -29,5 +29,33 @@ This application features:
 
 ---
 
+## 🔐 Features
+
+- User Registration and Secure Login (JWT-based)
+- Role-based access for admin and customers
+- Browse, search, and filter products
+- Shopping cart and checkout
+- Order history and status tracking
+- Admin dashboard for product and order management
+- Microservice communication via REST and Feign Clients
+- Service registry using Eureka
+- Centralized configuration (Spring Cloud Config)
+
+---
+
+## ⚙️ How to Run Locally
+
+### Prerequisites:
+- Java 17+
+- Node.js & Angular CLI
+- MySQL & MongoDB running locally
+- Docker (optional for containerization)
+
+### Backend Services
+
+# Navigate into each microservice directory and run:
+mvn clean install
+mvn spring-boot:run
+Have to run each individual service as a Java Application if running from an IDE.
 
 

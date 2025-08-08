@@ -16,7 +16,7 @@ This application features:
 
 ## 🚀 Tech Stack
 
-**Frontend:** React
+**Frontend:** React   
 **Backend:** Spring Boot (Java), Microservices  
 **API Gateway:** Spring Cloud Gateway  
 **Service Discovery:** Netflix Eureka  
